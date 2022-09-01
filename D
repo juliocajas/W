@@ -1,0 +1,13 @@
+#EXTM3U list-name="Canales Latinos ðŸ˜ " list-image="https://i.ibb.co/y5WvHvw/Tvlogo.png"
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/102.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png" group-title="Deportes",Afizzionados
+https://v3.playerlatino.live/stream/m3u8/878
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", VTV PLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/vtvplus.json
+https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc_2A/VTV_Plus_HD.mpd
